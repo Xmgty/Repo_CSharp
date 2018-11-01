@@ -1,0 +1,12 @@
+D:\Федюкович\NET\L1\Cars\Cars\bin\Debug\Cars.exe.config
+D:\Федюкович\NET\L1\Cars\Cars\obj\Debug\Cars.csprojResolveAssemblyReference.cache
+D:\Федюкович\NET\L1\Cars\Cars\obj\Debug\Cars.Properties.Resources.resources
+D:\Федюкович\NET\L1\Cars\Cars\obj\Debug\Cars.CreateDialog.resources
+D:\Федюкович\NET\L1\Cars\Cars\obj\Debug\Cars.csproj.GenerateResource.Cache
+D:\Федюкович\NET\L1\Cars\Cars\bin\Debug\Cars.exe
+D:\Федюкович\NET\L1\Cars\Cars\bin\Debug\Cars.pdb
+D:\Федюкович\NET\L1\Cars\Cars\obj\Debug\Cars.exe
+D:\Федюкович\NET\L1\Cars\Cars\obj\Debug\Cars.pdb
+D:\Федюкович\NET\L1\Cars\Cars\obj\Debug\Cars.ListView.resources
+D:\Федюкович\NET\L1\Cars\Cars\obj\Debug\Cars.MainForm.resources
+D:\Федюкович\NET\L1\Cars\Cars\obj\Debug\Cars.UpdateView.resources
