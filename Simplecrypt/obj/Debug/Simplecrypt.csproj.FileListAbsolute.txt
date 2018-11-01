@@ -1,0 +1,10 @@
+C:\Users\Вадим\source\repos\Simplecrypt\Simplecrypt\bin\Debug\Simplecrypt.exe.config
+C:\Users\Вадим\source\repos\Simplecrypt\Simplecrypt\bin\Debug\Simplecrypt.exe
+C:\Users\Вадим\source\repos\Simplecrypt\Simplecrypt\bin\Debug\Simplecrypt.pdb
+C:\Users\Вадим\source\repos\Simplecrypt\Simplecrypt\obj\Debug\Simplecrypt.csprojResolveAssemblyReference.cache
+C:\Users\Вадим\source\repos\Simplecrypt\Simplecrypt\obj\Debug\Simplecrypt.Properties.Resources.resources
+C:\Users\Вадим\source\repos\Simplecrypt\Simplecrypt\obj\Debug\Simplecrypt.csproj.GenerateResource.cache
+C:\Users\Вадим\source\repos\Simplecrypt\Simplecrypt\obj\Debug\Simplecrypt.csproj.CoreCompileInputs.cache
+C:\Users\Вадим\source\repos\Simplecrypt\Simplecrypt\obj\Debug\Simplecrypt.exe
+C:\Users\Вадим\source\repos\Simplecrypt\Simplecrypt\obj\Debug\Simplecrypt.pdb
+C:\Users\Вадим\source\repos\Simplecrypt\Simplecrypt\obj\Debug\Simplecrypt.MainForm.resources
