@@ -1,0 +1,10 @@
+D:\Федюкович\WPF\DemoLinqtoEntites\DemoLinqtoEntites\bin\Debug\DemoLinqtoEntites.exe.config
+D:\Федюкович\WPF\DemoLinqtoEntites\DemoLinqtoEntites\bin\Debug\DemoLinqtoEntites.exe
+D:\Федюкович\WPF\DemoLinqtoEntites\DemoLinqtoEntites\bin\Debug\DemoLinqtoEntites.pdb
+D:\Федюкович\WPF\DemoLinqtoEntites\DemoLinqtoEntites\bin\Debug\EntityFramework.dll
+D:\Федюкович\WPF\DemoLinqtoEntites\DemoLinqtoEntites\bin\Debug\EntityFramework.SqlServer.dll
+D:\Федюкович\WPF\DemoLinqtoEntites\DemoLinqtoEntites\bin\Debug\EntityFramework.xml
+D:\Федюкович\WPF\DemoLinqtoEntites\DemoLinqtoEntites\bin\Debug\EntityFramework.SqlServer.xml
+D:\Федюкович\WPF\DemoLinqtoEntites\DemoLinqtoEntites\obj\Debug\DemoLinqtoEntites.csprojResolveAssemblyReference.cache
+D:\Федюкович\WPF\DemoLinqtoEntites\DemoLinqtoEntites\obj\Debug\DemoLinqtoEntites.exe
+D:\Федюкович\WPF\DemoLinqtoEntites\DemoLinqtoEntites\obj\Debug\DemoLinqtoEntites.pdb
